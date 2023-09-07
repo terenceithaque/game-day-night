@@ -18,7 +18,7 @@ def update_time(queue):
 
         if delai <= 5.0:
             heures += 1
-            print("Heures :", heures)
+            # print("Heures :", heures)
             temps = 0.0
 
         if heures == 24:
